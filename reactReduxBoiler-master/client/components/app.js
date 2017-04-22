@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import {render}from 'react-dom';
 import LandingPage from './landingPage.jsx';
-import AwesomeComponent from './AwesomeComponent.jsx';
 import Calendar from '../containers/calendar.jsx';
 import Navbar from '../containers/navbar.jsx';
 
