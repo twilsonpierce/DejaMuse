@@ -1,18 +1,15 @@
-import React from 'react';
-import {render} from 'react-dom';
-import AwesomeComponent from './AwesomeComponent.jsx';
-import Display from '../containers/display.jsx';
-import Form from '../containers/form.jsx';
+import React, {Component} from 'react';
+import {render}from 'react-dom';
+import LandingPage from './landingPage.jsx';
 
-class App extends React.Component {
-  render () {
-    return ( 
-    <div>
-    <Form />
-    <Display />
-    </div>
-    )
-  }
+
+class App extends Component {
+	render(){
+		return(
+			<div>
+				<LandingPage/>
+			</div>
+		)
+	}
 }
-
 export default App;
