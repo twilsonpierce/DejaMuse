@@ -1,9 +1,8 @@
 import { combineReducers } from 'redux';
-import ReverseReducer from './reverse_reducer.js';
+import GetSong from './get_song.js';
 
 const rootReducer = combineReducers({
 
-	newStr: ReverseReducer
   
 });
 

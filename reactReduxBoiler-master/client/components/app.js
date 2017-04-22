@@ -1,15 +1,16 @@
 import React from 'react';
 import {render} from 'react-dom';
 import AwesomeComponent from './AwesomeComponent.jsx';
-import Display from '../containers/display.jsx';
-import Form from '../containers/form.jsx';
+import Calendar from '../containers/calendar.jsx';
+import Navbar from '../containers/navbar.jsx';
+
 
 class App extends React.Component {
   render () {
     return ( 
     <div>
-    <Form />
-    <Display />
+    <Navbar/>
+    <Calendar/>
     </div>
     )
   }
