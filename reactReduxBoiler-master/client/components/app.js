@@ -3,15 +3,17 @@ import {render}from 'react-dom';
 import LandingPage from './landingPage.jsx';
 import Calendar from '../containers/calendar.jsx';
 import Navbar from '../containers/navbar.jsx';
+// import css from './styles/styles.css';
+
 
 
 class App extends React.Component {
   render () {
     return ( 
     <div>
-    <Navbar/>
-    <Calendar/>
-    <LandingPage/>
+	    <Navbar/>
+	    <Calendar/>
+	    <LandingPage/>
     </div>
     )
   }

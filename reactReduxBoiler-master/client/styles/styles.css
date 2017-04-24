@@ -3316,3 +3316,102 @@ Custom BS3
 #widget {
     float:right;
 }
+
+
+
+/* DO NOT TOUCH LANDING & SIGN UP PAGE CSS */
+
+
+div.background{
+    margin-left:750px;
+}
+
+div.signUp{
+    margin-top: -450px;
+    margin-left: 80px;
+}
+div.heading{
+    background-color: #41DCF3;
+    height: 70px;  
+    width: 400px;
+    border-radius: 2px 2px 0 0;  
+}
+
+h2.joinHeading{
+    color: #121111;    
+    font-size: 29px;
+    text-align: center;
+    padding-top:22px;
+}
+button.btn.btn-default{
+    height: 70px;  
+    width: 400px;
+    color: #121111; 
+    font-family: Roboto;
+    font-size: 20px;
+
+}
+p#syncedtext{
+    font-size: 19px;
+    line-height: 19px;
+    margin-left:50px;
+    margin-top: 25px;
+}
+img#spotifyPic{
+    width:13%;
+    margin-left:165px;
+    margin-top:-34px;
+}
+
+div.footer{
+    margin-top:280px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img#pic1{
+    width:60%;
+}
+
+img#pic2{
+    width:60%;
+}
+
+img#pic3{
+    width:60%;
+}
+
+p#connectText{
+    color: #121111;
+    font-size: 20px; 
+    margin-top:160px;
+    margin-left:-150px;
+}
+p#connectText2{
+     color: #121111;
+    font-size: 20px; 
+    margin-top:160px;
+    margin-left:-150px;  
+}
+p#historyText{
+    color: #121111;
+    font-size: 20px; 
+    margin-top:160px;
+    margin-left:-102px;
+
+}
+p#journalText{
+    color: #121111; 
+    font-size: 20px;
+    margin-top:160px;
+    margin-left:-157px;
+}
+
+h1.title{
+    font-family:CoasterBlack;
+}
+h4.title2{
+    color:#FBA336;
+}
+
