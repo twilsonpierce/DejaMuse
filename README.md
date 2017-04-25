@@ -2,7 +2,7 @@
 ![image](https://cloud.githubusercontent.com/assets/20372701/25347623/893105e0-28e9-11e7-8511-8363e995138d.png)
 
 # Introduction 
-Welcome to SoundJournal! 
+Participated in an all women's hackathon that brought together women engineers,designers and hackers from all over New York City for a day of coding, mentorships, awesome projects and Inspiration. Collaborated on a team with four women who all created SoundJournal! 
 
 
 # Calendar Feature 
