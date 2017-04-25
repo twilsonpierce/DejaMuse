@@ -1,12 +1,12 @@
-# SoundJournal
+# DejaMuse
 ![image](https://cloud.githubusercontent.com/assets/20372701/25347623/893105e0-28e9-11e7-8511-8363e995138d.png)
 
 # Introduction 
-Participated in an all women's hackathon that brought together women engineers,designers and hackers from all over New York City for a day of coding, mentorships, awesome projects and Inspiration. Collaborated on a team with four women who all created SoundJournal! 
+Participated in an all women's hackathon that brought together women engineers,designers and hackers from all over New York City for a day of coding, mentorships, awesome projects and Inspiration. Collaborated on a team with four women who all created DejaMuse! 
 
 
 # Calendar Feature 
-In **SoundJournal**, every user will be given a calendar that will automatically create a timestamp for a song that he/she played on a specific day. After the user has collected enough songs overtime, it would become a timehop of music that the user will be able to create as a playlist. 
+In **DejaMuse**, every user will be given a calendar that will automatically create a timestamp for a song that he/she played on a specific day. After the user has collected enough songs overtime, it would become a timehop of music that the user will be able to create as a playlist. 
 
 
 ![image](https://cloud.githubusercontent.com/assets/20372701/25347582/66b871d8-28e9-11e7-9533-ab671340f1d6.png)
@@ -14,7 +14,7 @@ In **SoundJournal**, every user will be given a calendar that will automatically
 
  
 
-# Future of SoundJournal 
+# Future of DejaMuse 
 Beyond our MVP, we want to continue building upon our features by implementing the following: 
 
 * **Location-** Using Google Maps API to help users capture the location of where he/she listened to their favorite song. 
